@@ -7,8 +7,8 @@ for C++ : https://solved.ac/profile/toycppartoon
 
 📊codeforce : https://codeforces.com/profile/toycartoon
 
-![img](https://solvedac-cards-starcea.paring.moe/profile/toycartoon?color=light)
-![img](https://solvedac-cards-starcea.paring.moe/profile/toycppartoon?color=light)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=toycartoon)](https://solved.ac/toycartoon/)
+[![img](https://solvedac-cards-starcea.paring.moe/profile/toycppartoon?color=light)](https://solved.ac/profile/toycppartoon)
 
 I'm not good at programming. Maybe? 🤔
 
