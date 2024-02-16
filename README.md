@@ -1,6 +1,7 @@
-### Hello, World! toycartoon is here!
+### 📖 Hello, World! toycartoon is here!
 
 solved.ac : https://solved.ac/profile/toycartoon
+https://solvedac-cards-starcea.paring.moe/profile/toycartoon?size=200?color=light
 
 I'm not good at programming. Maybe?
 
