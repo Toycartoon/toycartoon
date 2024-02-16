@@ -10,7 +10,7 @@ for C++ : https://solved.ac/profile/toycppartoon
 ![img](https://solvedac-cards-starcea.paring.moe/profile/toycartoon?color=light)
 ![img](https://solvedac-cards-starcea.paring.moe/profile/toycppartoon?color=light)
 
-I'm not good at programming. Maybe?
+I'm not good at programming. Maybe? 🤔
 
 <!--
 **Toycartoon/toycartoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
