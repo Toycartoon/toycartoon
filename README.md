@@ -1,4 +1,6 @@
-### TODO: Write Readme lol
+### Hello, World! toycartoon is here!
+
+https://solvedac-cards-starcea.paring.moe/profile/:toycartoon?size=200
 
 <!--
 **Toycartoon/toycartoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
