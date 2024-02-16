@@ -1,8 +1,10 @@
-### 📖 Hello, World! toycartoon is here!
+### 👋 Hello, World!
 
-solved.ac : https://solved.ac/profile/toycartoon
+👋Welcome to my github! I'm **toycartoon**, student developer from **Incheon, South Korea**.
 
-https://solvedac-cards-starcea.paring.moe/profile/toycartoon?size=200?color=light
+🐛solved.ac : https://solved.ac/profile/toycartoon
+
+📊codeforce : https://codeforces.com/profile/toycartoon
 
 I'm not good at programming. Maybe?
 
