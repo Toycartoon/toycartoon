@@ -3,8 +3,12 @@
 👋Welcome to my github! I'm **toycartoon**, student developer from **Incheon, South Korea**.
 
 🐛solved.ac : https://solved.ac/profile/toycartoon
+for C++ : https://solved.ac/profile/toycppartoon
 
 📊codeforce : https://codeforces.com/profile/toycartoon
+
+![img](https://solvedac-cards-starcea.paring.moe/profile/toycartoon?color=light)
+![img](https://solvedac-cards-starcea.paring.moe/profile/toycppartoon?color=light)
 
 I'm not good at programming. Maybe?
 
