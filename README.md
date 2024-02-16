@@ -1,6 +1,8 @@
 ### Hello, World! toycartoon is here!
 
-https://solvedac-cards-starcea.paring.moe/profile/:toycartoon?size=200
+solved.ac : https://solved.ac/profile/toycartoon
+
+I'm not good at programming. Maybe?
 
 <!--
 **Toycartoon/toycartoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
