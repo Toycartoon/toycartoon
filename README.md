@@ -16,6 +16,7 @@ for C++ : https://solved.ac/profile/toycppartoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=toycppartoon)](https://solved.ac/toycppartoon/)
 
 ![Solved.ac Tags](https://solvedac-cards-starcea.paring.moe/tags/toycartoon?text=true)
+[![BOJ](https://bojstat.vulcan.site/v2/en/toycartoon)](https://www.acmicpc.net/user/toycartoon)
 
 I'm not good at programming. Maybe? 🤔
 
